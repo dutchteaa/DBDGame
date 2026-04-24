@@ -1,0 +1,5 @@
+2026/04/24-10:14:57.041 1938 Log #3: 2 ops saved to Table #4 OK
+2026/04/24-10:14:57.043 1938 Archiving C:\Users\Alton\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/04/24-10:14:57.044 1938 Table #4: 2 entries OK
+2026/04/24-10:14:57.045 1938 Archiving C:\Users\Alton\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/04/24-10:14:57.055 1938 **** Repaired leveldb C:\Users\Alton\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
