@@ -1,3 +1,2 @@
-2026/04/24-13:46:58.494 2c0c Reusing MANIFEST C:\Users\Aiden\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/24-13:46:58.503 2c0c Recovering log #3
-2026/04/24-13:46:58.506 2c0c Reusing old log C:\Users\Aiden\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/24-17:35:55.831 5188 Creating DB D:\Github\DBDGame\MyProject\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/04/24-17:35:55.860 5188 Reusing MANIFEST D:\Github\DBDGame\MyProject\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
