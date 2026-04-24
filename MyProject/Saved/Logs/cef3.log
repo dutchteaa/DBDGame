@@ -1,10 +1,5 @@
-[18440:17400:0424/100556.524:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18440:33116:0424/100556.568:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[18440:33112:0424/100556.569:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[18440:17400:0424/100556.586:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[33260:33384:0424/100556.627:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[18440:33112:0424/100601.570:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[33260:33384:0424/100601.639:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[33476:33480:0424/100606.115:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5450E6B873713C1B6EFAD989804B5496 will be ignored
-[33464:33468:0424/100606.205:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-ED219C46A949E1FA7BDBE8635C48B614 will be ignored
-[18440:17400:0424/100926.779:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[17144:8152:0424/134658.351:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17144:19212:0424/134658.423:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17144:8152:0424/134658.436:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3452:12204:0424/134702.126:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-90036171E25CA283AB2EA91EDAF78DB7 will be ignored
+[17144:8152:0424/145411.946:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
