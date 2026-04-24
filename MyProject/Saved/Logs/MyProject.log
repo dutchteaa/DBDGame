@@ -1391,3 +1391,48 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.24-11.57.45:064][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4.168968, Update Interval: 303.850830
 [2026.04.24-11.57.53:169][955]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2026.04.24-11.59.38:002][603]LogDerivedDataCache: C:/Users/Alton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.24-12.01.09:004][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.24-12.01.09:024][924]LogStall: Shutdown...
+[2026.04.24-12.01.09:028][924]LogStall: Shutdown complete.
+[2026.04.24-12.01.09:045][924]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2026.04.24-12.01.09:095][924]Cmd: QUIT_EDITOR
+[2026.04.24-12.01.09:095][925]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.24-12.01.09:097][925]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.24-12.01.09:098][925]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.24-12.01.09:098][925]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.24-12.01.09:106][925]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.24-12.01.09:106][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.24-12.01.09:106][925]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.04.24-12.01.09:111][925]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.24-12.01.09:111][925]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.24-12.01.09:112][925]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.24-12.01.09:112][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.24-12.01.09:113][925]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.24-12.01.09:114][925]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.04.24-12.01.09:116][925]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.24-12.01.09:116][925]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.24-12.01.09:116][925]LogAudio: Display: Audio Device unregistered from world 'Untitled_1'.
+[2026.04.24-12.01.09:116][925]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.24-12.01.09:116][925]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.24-12.01.09:117][925]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.24-12.01.09:121][925]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.24-12.01.09:121][925]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.24-12.01.09:125][925]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.24-12.01.09:126][925]LogExit: Preparing to exit.
+[2026.04.24-12.01.09:148][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.04.24-12.01.09:734][925]LogEditorDataStorage: Deinitializing
+[2026.04.24-12.01.09:837][925]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.24-12.01.09:847][925]LogExit: Editor shut down
+[2026.04.24-12.01.09:848][925]LogExit: Transaction tracking system shut down
+[2026.04.24-12.01.09:903][925]LogExit: Object subsystem successfully closed.
+[2026.04.24-12.01.09:988][925]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.24-12.01.10:103][925]LogMemoryProfiler: Shutdown
+[2026.04.24-12.01.10:103][925]LogNetworkingProfiler: Shutdown
+[2026.04.24-12.01.10:103][925]LoadingProfiler: Shutdown
+[2026.04.24-12.01.10:103][925]LogTimingProfiler: Shutdown
+[2026.04.24-12.01.10:103][925]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.24-12.01.10:103][925]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.24-12.01.10:322][925]LogWebBrowser: Deleting browser for Url=https://editor.unrealengine.com/en-US/get-started-with-unreal-engine.
+[2026.04.24-12.01.10:392][925]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.24-12.01.10:407][925]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.24-12.01.10:407][925]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFCEF6DC1-4EB0-552F-36D3-57B0AC30F836%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.7.4-51494982%2B%2B%2BUE5%2BRelease-5.7&UserID=82484bb1448438a1e1863f8307e7f18c%7C0e41bd92b9d143c8bcb7e1f6f61ff488%7C18308907-745c-45e8-bf63-b0c0762d61ce&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
