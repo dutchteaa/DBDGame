@@ -1,30 +1,4 @@
-[10116:9788:0424/101456.937:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[10116:9788:0424/101456.963:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Sleutel is niet geldig voor gebruik in opgegeven status. (0x8009000B)
-[10116:20752:0424/101456.989:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[10116:9788:0424/101457.014:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[10116:21428:0424/101502.821:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alton\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alton\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10116:21428:0424/101502.827:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alton\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alton\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10116:21428:0424/101502.831:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alton\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alton\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10116:21428:0424/101502.833:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alton\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alton\Documents\GitHub\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10116:21428:0424/101503.868:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10116:21428:0424/101503.879:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2912:25256:0424/101512.840:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9A76CB521E1B7D9FB244D39FA0E9CBD2 will be ignored
-[22512:9320:0424/101512.892:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-D9EA24DBA033A96DE4A39A0F8EA615B8 will be ignored
-[17664:21096:0424/101512.921:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[10116:21428:0424/102117.677:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4892:19572:0424/102117.680:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[22044:20168:0424/102948.866:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-47C9E4DB68E7E0EDB7AF4708ACA9DD81 will be ignored
-[2736:9016:0424/102949.402:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-19286C2E080F3ADDD246AE60E00250B5 will be ignored
-[4892:10772:0424/102949.544:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
-[10116:21348:0424/103740.347:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4892:19572:0424/103740.363:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[10116:21348:0424/103740.645:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[10116:21348:0424/103740.670:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[10116:21348:0424/103740.678:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4892:19572:0424/103740.693:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[10116:21348:0424/103740.708:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4892:22324:0424/103740.718:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[10116:21348:0424/103743.641:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4892:22324:0424/103743.652:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[10116:21428:0424/103745.188:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[10116:9788:0424/105448.716:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25312:3848:0424/135742.466:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25312:4488:0424/135742.489:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25312:3848:0424/135742.498:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1500:21604:0424/135745.115:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2091F3FE1A6A323A23EDB2B95E4E20F7 will be ignored
