@@ -1,12 +1,5 @@
-[26052:26056:0424/173555.552:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[26052:26056:0424/173555.606:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[26052:26056:0424/173555.719:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[26052:4192:0424/173601.969:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Github\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[26052:4192:0424/173601.973:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Github\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[26052:4192:0424/173601.975:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Github\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[26052:4192:0424/173601.980:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Github\DBDGame\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[26052:4192:0424/173608.296:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[26052:4192:0424/173608.308:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[26052:9124:0424/173611.573:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[26052:9124:0424/173611.601:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[26052:26056:0424/183241.915:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[26876:16408:0507/133850.794:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26876:24048:0507/133850.844:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26876:16408:0507/133850.850:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24240:24372:0507/133855.150:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F9B4909CBE200CADD275608C473D4518 will be ignored
+[26876:16408:0507/135307.504:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
