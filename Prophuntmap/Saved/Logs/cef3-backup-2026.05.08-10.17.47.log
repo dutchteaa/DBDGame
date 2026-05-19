@@ -1,0 +1,19 @@
+[29176:27412:0508/103816.680:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29176:9708:0508/103816.732:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[29176:27412:0508/103816.749:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28784:28472:0508/103823.476:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-36689D00385BBBC4A4EB0D8E87D9FC70 will be ignored
+[11928:29436:0508/104752.888:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29176:9708:0508/104752.894:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29176:9708:0508/104753.812:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29176:9708:0508/105044.247:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11928:29436:0508/105044.250:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29176:9708:0508/105711.068:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11928:29436:0508/105711.075:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29176:9708:0508/105711.551:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29176:9708:0508/105927.102:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11928:29436:0508/105927.110:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29176:27744:0508/105927.304:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11928:29436:0508/105927.323:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11928:29436:0508/113043.802:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29176:9708:0508/113043.803:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29176:27412:0508/121747.810:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
